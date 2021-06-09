@@ -17,9 +17,9 @@ Use socket to send the file.
 3. Connect to this server.
 4. Open the file.
 5. Read it to buffer.
-6 Send data when buffer is fulled.
-7 Clean this buffer.
-8 Do step 5 to step 7 recurssively until all the file sent.
-9 Close socket.
+6. Send data when buffer is fulled.
+7. Clean this buffer.
+8. Do step 5 to step 7 recurssively until all the file sent.
+9. Close the socket.
 
 # Refrences
