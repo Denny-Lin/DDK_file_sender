@@ -1,5 +1,5 @@
 # DDK_file_sender
-Use socket to send the file.
+Use the socket to send a file.
 * I will implement it someday.
 
 # Features
