@@ -19,7 +19,7 @@ Use socket to send the file.
 5. Read it to buffer.
 6. Send data when buffer is fulled.
 7. Clean this buffer.
-8. Do step 5 to step 7 recurssively until all the file sent.
-9. Close the socket.
+8. Do step5 to step7 recurssively until all the file sent.
+10. Close the socket.
 
 # Refrences
